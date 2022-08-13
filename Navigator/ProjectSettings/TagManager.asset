@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Point
+  - FirstFloor
+  - SecondFloor
+  - ThirdFloor
+  - WarningPoint
+  - MovingObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PointsLayer
+    uniqueID: 2958050551
+    locked: 0
+  - name: UILayer
+    uniqueID: 4271003347
+    locked: 0
+  - name: LineRender
+    uniqueID: 2109782067
+    locked: 0
